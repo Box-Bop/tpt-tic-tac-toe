@@ -97,4 +97,8 @@ describe('TicTacToe', () => {
     ]);
     expect(t.victory()).toBe('O');
   });
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> 2a043b323cc89da1bf540043f0f60caa4096dde1
